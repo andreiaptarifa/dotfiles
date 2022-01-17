@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = andreia.p.tarifa@gmail.com
+	name = andreia tarifa
